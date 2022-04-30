@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>Cult of None</title>
-    <link href="https://ratljost.github.com/Cult-of-None/feed.xml" rel="self" />
-    <link href="https://ratljost.github.com/Cult-of-None" />
+    <link href="https://ratljost.github.io/Cult-of-None/feed.xml" rel="self" />
+    <link href="https://ratljost.github.io/Cult-of-None" />
     <updated>2022-04-29T23:29:22+02:00</updated>
     <author>
         <name>Enon</name>
     </author>
-    <id>https://ratljost.github.com/Cult-of-None</id>
+    <id>https://ratljost.github.io/Cult-of-None</id>
 
     <entry>
         <title>About</title>
         <author>
             <name>Enon</name>
         </author>
-        <link href="https://ratljost.github.com/Cult-of-None/about/"/>
-        <id>https://ratljost.github.com/Cult-of-None/about/</id>
+        <link href="https://ratljost.github.io/Cult-of-None/about/"/>
+        <id>https://ratljost.github.io/Cult-of-None/about/</id>
 
         <updated>2022-04-29T23:18:04+02:00</updated>
             <summary>
@@ -35,13 +35,13 @@
         <author>
             <name>Enon</name>
         </author>
-        <link href="https://ratljost.github.com/Cult-of-None/home/"/>
-        <id>https://ratljost.github.com/Cult-of-None/home/</id>
+        <link href="https://ratljost.github.io/Cult-of-None/home/"/>
+        <id>https://ratljost.github.io/Cult-of-None/home/</id>
 
         <updated>2022-04-29T23:29:22+02:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://ratljost.github.com/Cult-of-None/media/posts/4/cofbg2-2.jpg" alt="" />
+                        <img src="https://ratljost.github.io/Cult-of-None/media/posts/4/cofbg2-2.jpg" alt="" />
                     <p>This is where the leading text goes.</p>
 <p> </p>
 
@@ -49,7 +49,7 @@
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://ratljost.github.com/Cult-of-None/media/posts/4/cofbg2-2.jpg" alt="" />
+                    <img src="https://ratljost.github.io/Cult-of-None/media/posts/4/cofbg2-2.jpg" alt="" />
                 <p>This is where the leading text goes.</p>
 <p> </p>
 
@@ -62,8 +62,8 @@
         <author>
             <name>Enon</name>
         </author>
-        <link href="https://ratljost.github.com/Cult-of-None/a-misogynists-paradise/"/>
-        <id>https://ratljost.github.com/Cult-of-None/a-misogynists-paradise/</id>
+        <link href="https://ratljost.github.io/Cult-of-None/a-misogynists-paradise/"/>
+        <id>https://ratljost.github.io/Cult-of-None/a-misogynists-paradise/</id>
             <category term="Long Form"/>
 
         <updated>2022-04-29T23:01:46+02:00</updated>
@@ -111,8 +111,8 @@
         <author>
             <name>Enon</name>
         </author>
-        <link href="https://ratljost.github.com/Cult-of-None/do-this-for-me-would-you/"/>
-        <id>https://ratljost.github.com/Cult-of-None/do-this-for-me-would-you/</id>
+        <link href="https://ratljost.github.io/Cult-of-None/do-this-for-me-would-you/"/>
+        <id>https://ratljost.github.io/Cult-of-None/do-this-for-me-would-you/</id>
             <category term="Snippets"/>
 
         <updated>2022-04-29T22:59:25+02:00</updated>
@@ -147,8 +147,8 @@
         <author>
             <name>Enon</name>
         </author>
-        <link href="https://ratljost.github.com/Cult-of-None/ignoring-isnt-a-solution/"/>
-        <id>https://ratljost.github.com/Cult-of-None/ignoring-isnt-a-solution/</id>
+        <link href="https://ratljost.github.io/Cult-of-None/ignoring-isnt-a-solution/"/>
+        <id>https://ratljost.github.io/Cult-of-None/ignoring-isnt-a-solution/</id>
             <category term="Snippets"/>
 
         <updated>2022-04-29T22:59:04+02:00</updated>
