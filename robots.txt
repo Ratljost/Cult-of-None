@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://ratljost.github.com/Cult-of-None/sitemap.xml

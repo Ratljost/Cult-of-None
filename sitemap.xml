@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://ratljost.github.com/Cult-of-None/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://ratljost.github.com/Cult-of-None/</loc>
+</url>
+<url>
+<loc>https://ratljost.github.com/Cult-of-None/a-misogynists-paradise/</loc>
+<lastmod>2022-04-29T23:01:46+02:00</lastmod>
+</url>
+<url>
+<loc>https://ratljost.github.com/Cult-of-None/about/</loc>
+<lastmod>2022-04-29T23:18:04+02:00</lastmod>
+</url>
+<url>
+<loc>https://ratljost.github.com/Cult-of-None/do-this-for-me-would-you/</loc>
+<lastmod>2022-04-29T22:59:25+02:00</lastmod>
+</url>
+<url>
+<loc>https://ratljost.github.com/Cult-of-None/home/</loc>
+<lastmod>2022-04-29T23:29:22+02:00</lastmod>
+<image:image>
+<image:loc>https://ratljost.github.com/Cult-of-None/media/posts/4/cofbg2-2.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://ratljost.github.com/Cult-of-None/ignoring-isnt-a-solution/</loc>
+<lastmod>2022-04-29T22:59:04+02:00</lastmod>
+</url>
+</urlset>
