@@ -12,3 +12,5 @@ fields:
   config:
     required: false
   label: Test
+pages:
+- this-is-a-test.md
