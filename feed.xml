@@ -3,12 +3,134 @@
     <title>Cult of None</title>
     <link href="https://ratljost.github.io/Cult-of-None/feed.xml" rel="self" />
     <link href="https://ratljost.github.io/Cult-of-None" />
-    <updated>2022-04-29T23:29:22+02:00</updated>
+    <updated>2022-05-03T11:31:39+02:00</updated>
     <author>
         <name>Enon</name>
     </author>
     <id>https://ratljost.github.io/Cult-of-None</id>
 
+    <entry>
+        <title>Podcasts</title>
+        <author>
+            <name>Enon</name>
+        </author>
+        <link href="https://ratljost.github.io/Cult-of-None/podcasts/"/>
+        <id>https://ratljost.github.io/Cult-of-None/podcasts/</id>
+
+        <updated>2022-05-03T11:31:39+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://ratljost.github.io/Cult-of-None/media/posts/22/podcast-mic.jpg" alt="" />
+                    We will have podcasts soon.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://ratljost.github.io/Cult-of-None/media/posts/22/podcast-mic.jpg" alt="" />
+                <p>We will have podcasts soon.</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Contact</title>
+        <author>
+            <name>Enon</name>
+        </author>
+        <link href="https://ratljost.github.io/Cult-of-None/contact/"/>
+        <id>https://ratljost.github.io/Cult-of-None/contact/</id>
+
+        <updated>2022-05-03T11:28:53+02:00</updated>
+            <summary>
+                <![CDATA[
+                    Name * Email * Message * var captchaOnloadCallback_contact = function captchaOnloadCallback_contact() { grecaptcha.render('g-recaptcha-contact', { 'sitekey': "6LfAmaYaAAAAABpq6fcdB_jjmBBMEQ-0UxvQjP54", 'callback': captchaValidatedCallback_contact, 'expired-callback': captchaExpiredCallback_contact }); }; var captchaValidatedCallback_contact = function captchaValidatedCallback_contact() {}; var captchaExpiredCallback_contact = function captchaExpiredCallback_contact() { grecaptcha.reset(); }; Submit Reset
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <form class=" " action="/contact" method="POST">
+<div class="form-field  ">
+<div class="form-label"><label class="inline">Name <span class="required">*</span></label></div>
+<div class="form-data" data-grav-field="text" data-grav-disabled="" data-grav-default="null">
+<div class="form-input-wrapper "><input class="form-input " autocomplete="on" name="data[name]" required="required" type="text" value="" placeholder="Enter your name"></div>
+</div>
+</div>
+<div class="form-field  ">
+<div class="form-label"><label class="inline">Email <span class="required">*</span></label></div>
+<div class="form-data" data-grav-field="email" data-grav-disabled="" data-grav-default="null">
+<div class="form-input-wrapper "><input class="form-input " name="data[email]" required="required" type="email" value="" placeholder="Enter your email address"></div>
+</div>
+</div>
+<div class="form-field  ">
+<div class="form-label"><label class="inline">Message <span class="required">*</span></label></div>
+<div class="form-data" data-grav-field="textarea" data-grav-disabled="" data-grav-default="null">
+<div class="form-textarea-wrapper  "><textarea class="form-textarea  " name="data[message]" required="required" placeholder="Enter your message"></textarea></div>
+</div>
+</div>
+<div class="form-field  ">
+<div class="form-label"> </div>
+<div class="form-data" data-grav-field="captcha" data-grav-disabled="" data-grav-default="null">
+<script type="application/javascript">
+        var captchaOnloadCallback_contact = function captchaOnloadCallback_contact() {
+            grecaptcha.render('g-recaptcha-contact', {
+                'sitekey': "6LfAmaYaAAAAABpq6fcdB_jjmBBMEQ-0UxvQjP54",
+                'callback': captchaValidatedCallback_contact,
+                'expired-callback': captchaExpiredCallback_contact
+            });
+        };
+
+        var captchaValidatedCallback_contact = function captchaValidatedCallback_contact() {};
+        var captchaExpiredCallback_contact = function captchaExpiredCallback_contact() {
+            grecaptcha.reset();
+        };
+    </script>
+<script src="https://www.google.com/recaptcha/api.js?onload=captchaOnloadCallback_contact&amp;render=explicit&amp;hl=&amp;theme=light" async="" defer="defer"></script>
+<div id="g-recaptcha-contact" class="g-recaptcha" data-theme="light">
+<div style="width: 304px; height: 78px;">
+<div><div class="post__iframe"><iframe loading="lazy" width="304" height="78" title="reCAPTCHA" src="https://www.google.com/recaptcha/api2/anchor?ar=1&amp;k=6LfAmaYaAAAAABpq6fcdB_jjmBBMEQ-0UxvQjP54&amp;co=aHR0cHM6Ly9jdWx0b2ZuLm9uZTo0NDM.&amp;hl=en&amp;v=2W_gRz39xX8G13fM-OdyQPlc&amp;theme=light&amp;size=normal&amp;cb=mloyr9bsjk48" role="presentation" name="a-nn9xu479xdxg" frameborder="0" scrolling="no" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-top-navigation allow-modals allow-popups-to-escape-sandbox allow-storage-access-by-user-activation"></iframe></div></div>
+<textarea id="g-recaptcha-response" class="g-recaptcha-response" style="width: 250px; height: 40px; border: 1px solid #c1c1c1; margin: 10px 25px; padding: 0px; resize: none; display: none;" name="g-recaptcha-response"></textarea></div>
+<div class="post__iframe"><iframe loading="lazy" style="display: none;"></iframe></div></div>
+</div>
+</div>
+<input name="__form-name__" type="hidden" value="contact"> <input name="__unique_form_id__" type="hidden" value="hnvqawyctjtibdpfblyz"> <input name="form-nonce" type="hidden" value="69d4b8f9a295dbf4bec5a768849a855d">
+<div class="text-center"><button class="form-button " type="submit">Submit</button> <button class="form-button " type="reset">Reset</button></div>
+</form>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Absence</title>
+        <author>
+            <name>Enon</name>
+        </author>
+        <link href="https://ratljost.github.io/Cult-of-None/absence/"/>
+        <id>https://ratljost.github.io/Cult-of-None/absence/</id>
+            <category term="Snippets"/>
+
+        <updated>2022-05-03T11:23:49+02:00</updated>
+            <summary>
+                <![CDATA[
+                    It had been over two months since I talked to my father. Thinking about it back then, it marked the longest I’d gone without talking to him since he was in prison. It was refreshing and felt liberating. Being a father myself, I hope my own son never feels that way about not talking to me. But I will never treat him the way my father treated me. The longer I went without speaking to him, the freer I felt. My father beat into us kids - literally and figuratively - that listening to him and pleasing him was all&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>It had been over two months since I talked to my father. Thinking about it back then, it marked the longest I’d gone without talking to him since he was in prison.</p>
+<p>It was refreshing and felt liberating.</p>
+<p>Being a father myself, I hope my own son never feels that way about not talking to me. But I will never treat him the way my father treated me.</p>
+<p>The longer I went without speaking to him, the freer I felt. My father beat into us kids - literally and figuratively - that listening to him and pleasing him was all that mattered. This led to an odd and strange sense of obligation for me. I don’t think my siblings felt the same. Maybe they did, but we all had such different experiences. Even though I knew logically all he brought me was misery, I still felt some strange feeling of obligation to my father. This meant I would continue to talk to him and have him in my life.</p>
+<p>Shortly after I first left, it was much more than that. I was almost afraid of not receiving his approval, even though I had left his church and no longer lived in his house. It caused me to make many decisions I ended up regretting. The choices I made weren’t about what I wanted, but we’re about what I felt would make my father happy.</p>
+<p>No, scratch that, I knew he wouldn’t be happy no matter what I did. But maybe he wouldn’t berate me and make me feel even more worthless than I felt almost every day of my childhood.</p>
+<p>My father always taught us to think of other people first. But when he taught us this, it wasn’t because he was trying to instill in his children noble values. It was because he wanted us to think of him first and put him ahead of everything else. After all, he was a prophet and spoke to God himself. Putting our father first was therefore the same as putting God first, which was the most honorable and Christian thing to do.</p>
+<p>Or so we were taught and led to believe.</p>
+<p>But it was all lies. It was all to give my father control over us. And that control remained in many ways for years after I left.</p>
+<p>I once tried talking to a therapist about my past. After hearing my story, he said that he believed deep down I still had the desire that everyone naturally has to please their parents. For most people this is fine. But for me, he said, it was causing me pain and said I should find a way to release myself from this in terms of my father.</p>
+<p>At the time, I don’t really think I believed that was the case. Even years after leaving I was still encumbered by this lurking shadow, but I felt I freed myself from it years prior.</p>
+<p>Yet, looking back on it, after I was able to stop speaking to my father, I realized that perhaps there still was some vestige of these feelings left deep inside that caused me to still have a relationship with someone who brought nothing good to my life and was only destructive.</p>
+<p>It wasn’t as pronounced or harmful to my life as it once was, but it was still there, even if just a little. It’s why I still put up with the craziness that was always around my father.</p>
+<p>As time went on, and the further my father was from me, the clearer I could see.</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>About</title>
         <author>
@@ -38,7 +160,7 @@
         <link href="https://ratljost.github.io/Cult-of-None/home/"/>
         <id>https://ratljost.github.io/Cult-of-None/home/</id>
 
-        <updated>2022-04-29T23:29:22+02:00</updated>
+        <updated>2022-05-03T11:23:58+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://ratljost.github.io/Cult-of-None/media/posts/4/cofbg2-2.jpg" alt="" />
@@ -66,7 +188,7 @@
         <id>https://ratljost.github.io/Cult-of-None/a-misogynists-paradise/</id>
             <category term="Long Form"/>
 
-        <updated>2022-04-29T23:01:46+02:00</updated>
+        <updated>2022-05-03T11:23:11+02:00</updated>
             <summary>
                 <![CDATA[
                     I'm still not completely sure how my parents found Branhasim. They were both very vague about the whole thing, but I think they were introduced to it through some friends or by a stranger at a religious event they went to. My parents were not particularly religious at this time. My father was likely more religious than my mother, but neither of them attended a church or had a specific religion they followed. My grandparents on my father's side were Greek Orthodox, while on my mother's side they were general Christian/protestant but, like most families, not practicing. Before Branhasim my&hellip;
@@ -115,7 +237,7 @@
         <id>https://ratljost.github.io/Cult-of-None/do-this-for-me-would-you/</id>
             <category term="Snippets"/>
 
-        <updated>2022-04-29T22:59:25+02:00</updated>
+        <updated>2022-05-03T11:19:37+02:00</updated>
             <summary>
                 <![CDATA[
                     <p>One thing that always fascinated me as I grew up was my father's ability to get others to do things for him. I'm not just talking about small things, either. But we can start there.</p>
@@ -143,38 +265,117 @@
         </content>
     </entry>
     <entry>
-        <title>Ignoring Isn&#x27;t a Solution</title>
+        <title>Paging Someone</title>
         <author>
             <name>Enon</name>
         </author>
-        <link href="https://ratljost.github.io/Cult-of-None/ignoring-isnt-a-solution/"/>
-        <id>https://ratljost.github.io/Cult-of-None/ignoring-isnt-a-solution/</id>
+        <link href="https://ratljost.github.io/Cult-of-None/paging-someone/"/>
+        <id>https://ratljost.github.io/Cult-of-None/paging-someone/</id>
             <category term="Snippets"/>
 
-        <updated>2022-04-29T22:59:04+02:00</updated>
+        <updated>2022-05-03T11:23:45+02:00</updated>
             <summary>
                 <![CDATA[
-                    <p>Having good role models while growing up is important, because you are able to learn in a way that can be beneficial for your life. Bad role models teach you as well, though whether it turns out to be useful or not all depends on your specific circumstances and how you handle with what you learn.</p>
-<p>There are a lot of things I wished I would have learned at an earlier age that could have been helpful in my life. Things I had to find out for myself that, many times, came too late. One of these is that ignoring problems does not make them go away. They just fester and can become a permanent scar.</p>
-<p>My father had a way of ignoring things. It was amazing, really, I remember it happened even from the littlest things up to the largest. He was perpetually late, and whenever we were running late for something he would completely ignore the reality of it, look at the clock, see it says 3:25pm while we are on our way for a 3:30pm appointment and still 20 minutes away, and just say gleefully - we aren't late yet! This somehow let him ignore the repercussions of being late.</p>
-<p>Then there were larger things, like the risk we would lose our house or his impending trial and legal troubles. These are things he would swiftly ignore and pretend that they didn't exist. A point would come when he could no longer do so, and then he would simply run away from the problem or continue to pretend that it didn't exist.</p>
-<p>This wasn't a good role model for being successful in life. When you are young and impressionable, the things your parents do make an impact on you and you can take up habits and traits, good and bad.</p>
-<p>The bad habit of ignoring things is something that took a hold of me for many years and was one I struggled to break free from.</p>
-<p>Ignoring things is never an answer, even if it is the easy thing to do in the moment. This is something I am grateful I finally learned, and something I teach my own children.</p>
-
+                    There was a paging system in my house when I was a teenager. Each room had a speaker that was connected to one of the main units, one of which was in my parents' bedroom and another that was in my father’s library. Unless the speaker had the mute button on, my parents could listen in on whatever us kids were doing in our rooms through the paging system. The main system could page all of the speakers, and my father would do this whenever he wanted, really loudly through the entire house. Sometimes he would ramble on about something&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p>Having good role models while growing up is important, because you are able to learn in a way that can be beneficial for your life. Bad role models teach you as well, though whether it turns out to be useful or not all depends on your specific circumstances and how you handle with what you learn.</p>
-<p>There are a lot of things I wished I would have learned at an earlier age that could have been helpful in my life. Things I had to find out for myself that, many times, came too late. One of these is that ignoring problems does not make them go away. They just fester and can become a permanent scar.</p>
-<p>My father had a way of ignoring things. It was amazing, really, I remember it happened even from the littlest things up to the largest. He was perpetually late, and whenever we were running late for something he would completely ignore the reality of it, look at the clock, see it says 3:25pm while we are on our way for a 3:30pm appointment and still 20 minutes away, and just say gleefully - we aren't late yet! This somehow let him ignore the repercussions of being late.</p>
-<p>Then there were larger things, like the risk we would lose our house or his impending trial and legal troubles. These are things he would swiftly ignore and pretend that they didn't exist. A point would come when he could no longer do so, and then he would simply run away from the problem or continue to pretend that it didn't exist.</p>
-<p>This wasn't a good role model for being successful in life. When you are young and impressionable, the things your parents do make an impact on you and you can take up habits and traits, good and bad.</p>
-<p>The bad habit of ignoring things is something that took a hold of me for many years and was one I struggled to break free from.</p>
-<p>Ignoring things is never an answer, even if it is the easy thing to do in the moment. This is something I am grateful I finally learned, and something I teach my own children.</p>
+                <p>There was a paging system in my house when I was a teenager.</p>
+<p>Each room had a speaker that was connected to one of the main units, one of which was in my parents' bedroom and another that was in my father’s library. Unless the speaker had the mute button on, my parents could listen in on whatever us kids were doing in our rooms through the paging system. The main system could page all of the speakers, and my father would do this whenever he wanted, really loudly through the entire house.</p>
+<p>Sometimes he would ramble on about something stupid, or just to let them know some random apparent fact. Instead of actually taking time to spend with his kids, he would frequently page the house and say "I love you {insert kid's name here}."</p>
+<p>There was nothing more embarrassing than him doing that while I was on the phone or when one of my friends was over. I always hated this paging system but was always able to live with it. But there were so many times I just couldn't take it and had to leave the house any chance I could get.</p>
+<p>Whenever my father was home for an extended period, he seemed to live on the paging system, always talking about something stupid or asking for something from me, my mother, or one of my siblings. There was nothing worse than just sitting down to relax and then hearing your father’s voice really loud throughout the entire house asking you to go get him a glass of water from the kitchen, which was only about two meters from his library.</p>
+<p>Even worse, you knew that once you went down the glass of water wouldn't be the end of it. Follow-up work was always involved, some of which was really awful.</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>An Extended Vacation</title>
+        <author>
+            <name>Enon</name>
+        </author>
+        <link href="https://ratljost.github.io/Cult-of-None/an-extended-vacation/"/>
+        <id>https://ratljost.github.io/Cult-of-None/an-extended-vacation/</id>
+            <category term="Long Form"/>
 
-<p> </p>
+        <updated>2022-05-03T11:24:42+02:00</updated>
+            <summary>
+                <![CDATA[
+                    It was the winter of 1998. To be more precise, it was my winter vacation from university of 1998-99. I had successfully completed a year and a half of university and I was slowly starting to realize more and more that I really needed to get out of the situation that I was in if I wanted to keep my sanity. I had a month off from university with nothing to do but hang out at home with my family and try to get away from home as much as possible. I was getting more into computer games then, and&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <article class="magic-content prose md:prose-md max-w-none my-6">
+<p>It was the winter of 1998. To be more precise, it was my winter vacation from university of 1998-99. I had successfully completed a year and a half of university and I was slowly starting to realize more and more that I really needed to get out of the situation that I was in if I wanted to keep my sanity. I had a month off from university with nothing to do but hang out at home with my family and try to get away from home as much as possible. I was getting more into computer games then, and I still remember my favorite game of the time—<a href="https://en.wikipedia.org/wiki/Thief:_The_Dark_Project">Thief: The Dark Project</a>—which was a stealth first person action game. It was my escape from the pieces of a broken home that were falling all around me.</p>
+<p>This time was the defining moment of the downfall of the small empire that my father had built. When I look back on it now, I realize that it was events during this time that would cause it all to crumble. It didn’t seem like it then, of course, though it did look bad and my brother, mom, and I all tried to reason with my father because we were afraid that something bad would happen. I could feel the coming disaster but never could have guessed then that it would turn out as it did.</p>
+<p>A few weeks before Christmas 1998 my father decided that he would get liposuction and a nose job. Did he have the disposable income for these expensive procedures?</p>
+<p>Of course not.</p>
+<p>He simply paid for it with money that he should have used to pay his rent, his employees, and file cases. So instead of using his money wisely, he went and spent tens of thousands of dollars (a large amount for him at the time) on a liposuction procedure to get rid of the fat in his stomach. He wanted to lose the spare tire he had hanging on him, which is understandable, but instead of trying to eat healthier and exercise, he decided to use money that he once again did not really have to get an expensive procedure that may or may not work.</p>
+<p>After he got the liposuction, he came home and had to wear this foam padding around his belly. This was because fat and other fluids were essentially seeping out of his body and this foam padding caught all of this crap. I remember how he didn’t want anyone to know he had the surgery because, as I realize now, if is loyal church followers or employees found out that he spent their salaries and tithes for liposuction they would be understandably upset.</p>
+<p>But the problem was he had to wear this big piece of foam for the two weeks following his surgery. If someone saw him of course they would be asking themselves like “What happened to him? Did he gain 10 pounds overnight?” or “Why is he wearing a piece of foam around his stomach?”</p>
+<p>These questions would lead to inquiries which would lead to the inevitable discovery by his followers and employees that he had liposuction. So instead of telling the 50 or so people that he was recovering from his recent cosmetic surgery, he decided to take the easy way out and lie to them all.</p>
+<p>My father was always a very good liar. I was born into them and believed his lies for two decades years. It was his lies that ended up harming so many of the people around him.</p>
+<p>Because he was a pastor, and ran a evangelical faith-based law practice, a lot of his lies and excuses could be used twice. For example, a favorite excuse he would use would be to tell the assistant pastor of the church that the people do not appreciate him and his gifts of prophecy, healing, and just all-around wonderfulness.</p>
+<p>Therefore, as punishment for their unappreciative behavior he would be absent from church for an undetermined amount of time. Instead of preaching he would play a tape of Abraham Jefferson, the original founder of “The Word,” and they would listen to this tape and ponder the evil of their ways. While everyone would file into the church on Sunday morning and Tuesday and Thursday nights, to listen to a 40-year-old sermon on a tape they could listen to at home, he would be sitting at home eating ice cream while watching the Beatles Anthology for the fiftieth time in a row.</p>
+<p>Perhaps the most amazing thing about this kind of thing was not the lie itself but the fact that the people actually believed it. You would see everyone in church talking about how wonderful my father was, how horrible they all were for not appreciating him, and how they can’t wait for the day that he can come back to church and give them the “true word of God.”</p>
+<p>Since I was living with him, I of course knew about everything but was sworn to secrecy. I could not tell anyone about the liposuction because, according to my father, “they might get the wrong idea.”</p>
+<p>You see, according to my father he did not get liposuction for any kind of selfish reason. He got it to actually help others! His reasoning, to those of us who knew he had it, was that he needed to be presentable and had to look good if he was to be a pastor and missionary who would win over souls for Jesus. What would the people think, after all, if their pastor was a little overweight?! His biggest excuse he used to make himself feel good about it was that the starving people in Africa would be offended when they saw this overweight American missionary come in and tell them how to be saved. They would receive him with more open arms, he told me, if he was thinner. After all, he didn’t want to be a stumbling block (a favorite phrase of the church) to any of them.</p>
+<p>Since almost all of my father’s employees also went to his church he of course could not show up at work because they would find out that something was up. He also would look really weird at court or when he was trying to get a new client with a big round piece of foam under his clothes. He decided to that he would take a little vacation from work as well. In addition to the people not appreciating him, he told his employees at his office that he was very worn out from all his “hard work” at the office and thus needed to take a nice, long two-week vacation.</p>
+<p>At the time he had three other lawyers working for him (all of whom worked very hard, and I still feel very sorry for because of how much they were used and manipulated by my father) and these lawyers would handle all of the court hearings, client meetings, new client procurements, and other legal matters. The rest of his employees (there were about 5 other secretaries and legal assistants besides my mother, my brother, and myself) would do the rest of the work.</p>
+<p>This was a very inopportune time for my father to take a vacation. While the previous year his law practice took in almost one million dollars, he probably spent close to one and a half million dollars, not including all of his expenses. He had just bought a new Mercedes Benz, a new airplane, and many new guitars, amplifiers, and high-tech recording equipment for his band that he hoped would make him a star, just like his idols the Beatles. This added to the fact that there was a lull in business over Christmas and New Years and that he had a lot of new stiff competition all made it a really bad time for him to slack off.</p>
+<p>Despite his craziness my father was an excellent salesman. On the surface he was a very likable, sincere, convincing person who could sell anything to almost anyone. Up until the end we always had at least 30 new clients a week. His staff of three other attorneys were all just out of law school and were not as good at sales as he was and could not procure as many clients. Since that time of the year was already a very slow time it made things even worse. Thus, my father’s practice didn’t get many new clients while he was away.</p>
+<p>One would think that, given the situation at hand, he would have told at least his employees about his surgery and gone back to work as soon as he could so he could deflect as much damage as possible. I originally thought that he would be back in two weeks.</p>
+<p>But, knowing my father, I should have realized that rational thought was too much. Instead of going back to work once he no longer had to wear the foam around his stomach, he decided that it was a perfect time to get a nose job. He always hated his nose, and he always complained that it was getting bigger. Since he was already gone from work and church, and already had an excuse in place that everyone believed, a few more weeks away from work and another ten thousand dollars shouldn’t hurt anything, he thought. He proceeded to take money that wasn’t really his to use in the first place and get a nose job. He decided to take another two weeks off and was away from his office and church for over a month.</p>
+<p>During this time, he continued to have more pressing financial problems. He was threatened with eviction from the building that his office was in, he was late on all his car payments, was about to default (again) on his mortgage, couldn’t pay his employees, and could barely buy his family food. But he got what was important: his liposuction and nose job.</p>
+<p>He told those of us who knew about his escapade (he ended up telling more people than he would have liked to) that when he goes back to work, he will look so great that he will get hundreds of new clients, pay all his bills and employees, and be an even better pastor of his church. All because of his newfound self-confidence through liposuction and a nose job.</p>
+<p>What was even worse than all of this for me was the fact that my father stayed home all the time during my winter vacation.</p>
+<p>As anyone who has lived with my father at the time can attest, it wasn’t fun. Even though he subjected himself to those surgeries he wanted everyone to feel sorry for him and do everything for him. He couldn’t even get a drink by himself – he always had to ask someone to do it for him just because he was so lazy. He used to sit in his library, which was right next to the stairs to the second floor of my old house, and whenever he heard someone go up or down the stairs, he would go through everyone’s name until he found out who it was so he could ask them to do something for him. He needed more wood in his fire, or a sandwich, or a glass of water, or his medicine, or another of the seemingly million things he had for his wife and children to do.</p>
+<p>During his month-long vacation, his business was on its way to oblivion. Like a blind person being led by a blind dog, my father’s firm was being led to inevitable failure because of his ridiculous selfish ventures that he seemingly failed to see the danger of. His staff were growing tired of working long hours while their boss stayed at home relaxing. It wouldn’t have been so bad if this law firm was a firm without any financial problems, but during this time his firm had started to fall into some serious holes. The staff was well aware of this, as was my father, but that did not stop my father from continuing his long vacation. The rent for the huge office was months late, the phones were about to be cut off, not one payment had been made for the brand new $20,0000 computer system that my brother and I had just installed (and that was purchased on my brother’s credit), car payments were late, creditors couldn’t be paid and eventually neither could the staff.</p>
+<p>While all of this was happening, my father was taking a leisure vacation at his house, sitting by his fire every day, reading his books, playing his guitar, listening to music, watching television, and abusing prescription drugs while he continued to verbally and mentally abuse his children and physically abuse his wife. The money that was coming in at his firm was going to pay for the “important” things, such as the rent for our huge house (that we didn’t need and that Alex and I tried to convince him for years to sell), our fancy cars, and his prescription drug addiction.</p>
+<p>Eventually he was in such bad need of money that he convinced one of his attorneys that he had just recently hired to ask their parents for a loan to give to my father. But he told his employee not to tell their parents that they were giving it to him but instead pretend that they needed the money. This happened twice with the same employee for thousands of dollars. Not only were my father’s employees not getting paid, but they were being essentially used to get money for my father so he could pay for his liposuction, his nose job, and his nice things.</p>
+<p>I felt really sorry for my father’s employees at the time, especially the three lawyers who had no affiliation with my father’s church. For the longest time my father would hire only Christian people. What this meant was people from our church. It was a very smart move from his part because he already had authority over these people through being their pastor, and now he was their boss. It was nearly impossible for them to ever win an argument with my father because he, being the pastor, was always right and it was disrespectful for them to talk back to their “spiritual guide.”</p>
+<p>It also was beneficial because he could abuse them much easier than a person who was outside of his church. There were many times when we would have a huge amount of work to do, but my father would go home early and take long weekends while his staff would work until 9 or 10pm at night and then again on Saturday and Sunday (myself and my brother included).</p>
+<p>He would always say things like “I’m tired from preaching and being a lawyer and if I don’t get some rest I won’t be able to procure new clients or lead the church” or “I have to answer missionary mail,” or “I need to pray for a solution to our problems,” or “I need to prepare for the church services,” or “God will bless you if you help out your pastor; it’s just like helping Jesus himself” or some other excuse that always made his employees and church people believe him and do just what he wanted.</p>
+<p>What no one seemed to realize then, even myself included up until I finally left the church and his house in my early 20s, was that he was just using people for his own personal gain and abusing their trust in him as a pastor and a leader.</p>
+<p>No matter what the situation was – buying a new car, getting liposuction, or taking extended vacations when he shouldn’t have – he was always able to get his employees and his church followers behind him and get them to believe him. He would always come back to the fact that he was their pastor, and it was wrong of them to question him, because to do that would be like questioning God. It would also prove that you are not a born-again Christian, which was what everyone was striving to be because they believed once they became a born-again Christian, they could have a guaranteed ticket to heaven.</p>
+</article>
+<div class="flex-none flex-centered w-full p-6 mx-auto">
+<div class="space-x-3 text-center"> </div>
+</div>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>From the Outside</title>
+        <author>
+            <name>Enon</name>
+        </author>
+        <link href="https://ratljost.github.io/Cult-of-None/from-the-outside/"/>
+        <id>https://ratljost.github.io/Cult-of-None/from-the-outside/</id>
+            <category term="Snippets"/>
+
+        <updated>2022-05-03T11:23:41+02:00</updated>
+            <summary>
+                <![CDATA[
+                    If you were just looking from the outside, at the height of my father’s success it probably seemed like we were well-off. We had a huge house with nine bedrooms, four cars, two airplanes, and all sorts of modern early 1990s luxuries. I use the term success loosely, however, because it was all about appearances and not real success or stability. Sure, my father drove around in his Mercedes and flew in his airplane, but he was on the brink of losing everything at any moment. For my entire childhood. One thing he would do was buy us kids a&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>If you were just looking from the outside, at the height of my father’s success it probably seemed like we were well-off. We had a huge house with nine bedrooms, four cars, two airplanes, and all sorts of modern early 1990s luxuries.</p>
+<p>I use the term success loosely, however, because it was all about appearances and not real success or stability. Sure, my father drove around in his Mercedes and flew in his airplane, but he was on the brink of losing everything at any moment. For my entire childhood.</p>
+<p>One thing he would do was buy us kids a lot of gifts for Christmas. Looking back on it now that I am older and wiser, I realize this was more a combination of compensation and selfishness than it was about making his children happy.</p>
+<p>The compensation was for all of those times he was never there as a father. Never there as his children needed him.</p>
+<p>The selfishness is equally as simple: knowing my father, he probably just wanted to make himself feel better and also wanted his kids to think he was a wonderful father because he bought them a bunch of stuff with money he actually didn’t have.</p>
+<p>One year, he decided to take one of his missionary trips to Africa. He had been to Namibia a number of times and was going again. My mother also went and they decided to go over the Christmas and New Year period. Some church members lived in our house with us, and they would manage things and watch us kids while my parents were away. We were always happy, to be honest, because any time away from our father made our life easier.</p>
+<p>My father always loved Christmas, but not enough to cancel his trip and spend it with his family. He didn't want to miss out, though, on all of the Christmas festivies. Instead of having an early celebration, he decided to make the family wait until my parents returned in the second week of January. But he wanted to make sure that the tree was full of presents.</p>
+<p>Being only 8 years old at the time, I was conflicted. I was happy my father would be away, but it also felt like cruel torture to see all those presents sitting under the tree for weeks and weeks. We couldn't touch them, and if we did anything wrong while my parents were away, we wouldn't get to open them when they returned.</p>
+<p>You may be thinking - what's the big deal? We were lucky enough to have a roof over our head and presents under the tree, so why should you complaing?</p>
+<p>You're right, it's not a big deal, but I provide this as an example about what I felt was true at the time but couldn'd express, and so clearly realized was true when I became older: my father never really cared for others and his actions were only to benefit himself.</p>
+<p>He could have celebrated Christmas with his family before he left. But he didn't want to. He wanted to make everyone wait for him, so he could have the celebration that he wanted to have on his own terms, regardless of what his family thought or felt.</p>
+<p>From small and mundane things to big decisions, my father's first thought was always himself.</p>
             ]]>
         </content>
     </entry>
